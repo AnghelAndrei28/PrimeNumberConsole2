@@ -55,7 +55,7 @@ namespace Nr_prim
                 Console.ReadKey();
             }
 
-
+            Console.WriteLine('final');
         }
     }
 }
